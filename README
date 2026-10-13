@@ -1,1 +1,4 @@
-Hello World!
+Thực hành Chương 9:
+Trong bài thực hành Chương 9, em đã có cơ hội trải nghiệm và làm quen với môi trường phát triển đám mây trên GitHub Codespaces. Qua quá trình thực hành, em đã hiểu rõ cách khởi tạo một không gian làm việc (workspace) trực tiếp từ repository trên GitHub mà không cần tốn thời gian cấu hình môi trường phức tạp ở máy cục bộ (local).
+
+Việc tích hợp sẵn trình soạn thảo Visual Studio Code cùng các công cụ quản lý mã nguồn, terminal và tiện ích mở rộng ngay trên trình duyệt đã giúp tối ưu hóa quy trình làm việc, tiết kiệm thời gian thiết lập và nâng cao hiệu suất lập trình. Trải nghiệm này mang lại góc nhìn thực tế về xu hướng phát triển phần mềm hiện đại dựa trên nền tảng điện toán đám mây.
